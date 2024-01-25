@@ -1,0 +1,1 @@
+This is custom esp32 board with cutouts and jumpers in the pcb
